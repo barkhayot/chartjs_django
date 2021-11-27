@@ -19,7 +19,7 @@ To run current application on your local host please install all required tools 
 
 ### Example view
 
-* <img src="https://github.com/barkhayot/chartjs_django/blob/main/screencapture-localhost-8000-home-2021-11-27-12_39_49.jpg" data-canonical-src="https://github.com/barkhayot/chartjs_django/blob/main/screencapture-localhost-8000-home-2021-11-27-12_39_49.jpg" width="150" height="100" />
+<img src="https://github.com/barkhayot/chartjs_django/blob/main/screencapture-localhost-8000-home-2021-11-27-12_39_49.jpg" data-canonical-src="https://github.com/barkhayot/chartjs_django/blob/main/screencapture-localhost-8000-home-2021-11-27-12_39_49.jpg" width="150" height="100" />
 
 
 
